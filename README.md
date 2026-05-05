@@ -89,7 +89,17 @@ Kullanıcıların sisteme giriş yapabildiği, yetkilerine göre farklı ekranla
 ---
 ## Ekran Görüntüleri
 images klasöründe yer almaktadır
+
 ---
+## Database
+
+Uygulama SQL Server veritabanı ile entegre çalışmaktadır.
+
+- Kullanıcı doğrulama işlemleri database üzerinden yapılmaktadır
+- Role-based login sistemi (User/Admin) bulunmaktadır
+- DatabaseManager sınıfı üzerinden bağlantı yönetilmektedir
+
+  ---
 ## 📁 Kurulum
 
 ```bash
