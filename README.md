@@ -87,6 +87,13 @@ Kullanıcıların sisteme giriş yapabildiği, yetkilerine göre farklı ekranla
 - Modular UserControl yapısı
 
 ---
+## Ekran Görüntüleri
+
+### Login Ekranı
+![Login](images/login.png)
+
+### Ana Ekran
+![Main](images/main.png)
 
 ## 📁 Kurulum
 
