@@ -88,13 +88,11 @@ Kullanıcıların sisteme giriş yapabildiği, yetkilerine göre farklı ekranla
 
 ---
 ## Ekran Görüntüleri
-
-### Login Ekranı
-![Login](images/login.png)
-
-### Ana Ekran
-![Main](images/main.png)
-
+[![1](images/1.png)](images/1.png)
+[![2](images/2.png)](images/2.png)
+[![3](images/3.png)](images/3.png)
+[![4](images/4.png)](images/4.png)
+---
 ## 📁 Kurulum
 
 ```bash
